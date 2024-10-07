@@ -43,7 +43,7 @@ Dearmor the gpg-key for apt:
 
 Add the list-file to apt:
 
-`$ echo "deb [arch=amd64 signed-by=/opt/debian-repo/debian-trixie-repo.gpg] file:/opt/debian trixie main" | sudo tee /etc/apt/sources.list.d/trixi-hyprland_and_media.list > /dev/null`
+`$ echo "deb [arch=amd64 signed-by=/opt/debian-repo/debian-trixie-repo.gpg] file:/opt/debian-repo/debian trixie main" | sudo tee /etc/apt/sources.list.d/trixi-hyprland_and_media.list > /dev/null`
 
 Update the repository:
 `$ sudo apt update`
