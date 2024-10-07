@@ -2,7 +2,7 @@
 A local Debian 13 (trixie) repository for hyprland, bla, bla, bla and my commonly used audio and video applications
 
 
-## Disclamber
+## Disclaimer
 If you don't copy the repo outside your home-directory to the /opt direcory, you will get a warning notice.
 This is not an error. The "Notice:" at the beginning says that this is just a notice. There is nothing to fix, (almost) everything worked as expected.
 
