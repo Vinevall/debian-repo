@@ -31,7 +31,7 @@ Change into the copied repo directory:
 `$ cd /opt/debian-repo`
 
 
-Copy the repo to the /opt directory:
+Copy the repo to the /opt/debian-repo directory:
 
 `$ sudo cp -r <path_to_git_repo>/apt/debian .`
 
