@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Debian 13 Repository
+Label: Debian 13 Repository
+Codename: trixie
+Date: Mon, 07 Oct 2024 15:29:38 UTC
+Architectures: amd64
+Components: main
+Description: Apt repository for my used Debian 13 applications
+MD5Sum:
+ d571def1179f335e833100d6727b30df 476 main/binary-amd64/Packages
+ 7eb940403f2cb370cb6c828dc9f3cd9e 359 main/binary-amd64/Packages.gz
+ 21d86a64a55fc1af84ae57cd1e5ca9ee 156 main/binary-amd64/Release
+SHA1:
+ 75937d0b614b49e57f72cdb15295da743937bc8f 476 main/binary-amd64/Packages
+ e0387b6c2742d234c9cd6688d4d9e6077d0f803e 359 main/binary-amd64/Packages.gz
+ 48abe05f0c5ce0477d18257c075f50d67bf855ab 156 main/binary-amd64/Release
+SHA256:
+ 53201eb07f5f5273c583a16305f080f1e82f6b440012eb9080b22af71a9883de 476 main/binary-amd64/Packages
+ 6b28194b5b7aa375f41aca17d539bbbc2fa13da9094c285e05fc4d6d84ffefad 359 main/binary-amd64/Packages.gz
+ ddd4869fbe4655ea8040651bf037e29ea50939f60802db1b54d8a1e86756cea8 156 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEdITKj2lmASRQIyg0H70wv4UyuF8FAmcD/msACgkQH70wv4Uy
+uF803g/9Eo7cHLyudV2GkF70RXKE0mNC/Ni3WVQ/CjiygTLKRANcsC2EGMXRepcf
+T49YWk6YOKnDNmX4Z4WgtD9qoI0JwKdNHkSxZ67edw1U9YDCWbfLKFoFfyJFdldk
+KRuRfLFy3ymQLYnttFoOqfYI6f16IxYqXAgNIyty5FcxVQAlF2GfPVzQ8bsPPdxR
+O/PyXUe478KfhaB9lEausur0nEPXcQCVHzySWVw6EMgN1iKQmgwKDD01m9aocyFO
+KjxE5KRM665xQobClkTmDpxPOVZx1mAiEddo3RguqoMidoy36M5GCSNgtdlLWckS
+JZRLDfqtN1IwjBkb2FBqa94AwVgeomJHiB/UT+nG+F70cjvQatwFvSsd6CpC+wqQ
+cebQ+QahRyEz3D4MRKz095kIYMFh6IyXRZAs8Q3B2tX8m5gkPZdpUdSRQefsxJJb
+I0o4rgQfpNmzX/7Jcas+dhXmOtRDW2w/uCHGuAooEJEGZlT6aZc3eMpT5dbA5RMx
+r2HoybaZlUfNBOua5OF9J3rZ1cc+HFZg5/FE1tfEcvolFWVcoYbXevwn8Ye/sdyo
+42mxK7QevkKKHamMOYnJIrvnxVLKLsg1mehgnhlRY0coOJvQdU0RanWgqckGtbCR
+woxRSvBybZHcCuBokKdxddbpvUfFvao9dUBipqrGml9Ol0W55AQ=
+=T/ov
+-----END PGP SIGNATURE-----

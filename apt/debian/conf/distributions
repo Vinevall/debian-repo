@@ -1,0 +1,9 @@
+Origin: Debian 13 Repository
+Label: Debian 13 Repository
+Codename: trixie
+Architectures: amd64
+Components: main
+Description: Apt repository for my used Debian 13 applications
+DebOverride: override.trixie
+DscOverride: override.trixie
+SignWith: 559A5F6F5CB79E17670CCEA60DABA129D1C23F41

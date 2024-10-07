@@ -1,0 +1,5 @@
+Component: main
+Origin: Debian 13 Repository
+Label: Debian 13 Repository
+Architecture: amd64
+Description: Apt repository for my used Debian 13 applications
