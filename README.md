@@ -53,4 +53,4 @@ Update the repository:
 
 Install package of your choise:
 
-`$ sudo apt install hyprland'
+`$ sudo apt install hyprland`
