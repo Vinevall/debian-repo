@@ -1,3 +1,41 @@
+Package: libhyprutils
+Version: 0.2.3
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libpixman-1-0 (>= 0.25.2), libstdc++6 (>= 13)
+Replaces: libhyprutils0 (<= 0.2.2)
+Architecture: amd64
+Homepage: https://github.com/hyprwm/hyprutils
+Priority: optional
+Section: libs
+Filename: pool/main/libh/libhyprutils/libhyprutils_0.2.3_amd64.deb
+Size: 74048
+SHA256: af3055d35e65537a7390977bbba73929930280cf4f22c07b3b431bf58ee484bd
+SHA1: 31d07fb1341ed8f53225116dc8438733a05e07f3
+MD5sum: 22766e8fc6ec419919a657078ccf4029
+Description: Utilities used across the Hyprland ecosystem (library)
+ Hyprutils is a small C++ library for utilities used across the Hyprland
+ window manager ecosystem.
+ This package contains the binary shared library.
+
+Package: libhyprutils-dev
+Version: 0.2.3
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Depends: libhyprutils (= 0.2.3)
+Replaces: libhyprutils-dev (<= 0.2.1)
+Architecture: amd64
+Homepage: https://github.com/hyprwm/hyprutils
+Priority: optional
+Section: libdevel
+Filename: pool/main/libh/libhyprutils-dev/libhyprutils-dev_0.2.3_amd64.deb
+Size: 82328
+SHA256: 8b87dff8b5213e3174fd43c21be58b869d761321ccf7de933fcc1210d5fa1037
+SHA1: 6dcc2b59ec70e868bef189991bcdb5fcd619dd29
+MD5sum: ecc062895ff5783fdba8412fbc857942
+Description: Utilities used across the Hyprland ecosystem (development files)
+ Hyprutils is a small C++ library for utilities used across the Hyprland
+ window manager ecosystem.
+ This package contains the development files.
+
 Package: wallust
 Version: 3.0.0
 Maintainer: Joakim Vinevall <joakim@vinevall.se>
