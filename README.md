@@ -17,7 +17,7 @@ In this situation (fetchting the package file locally) there's no security advan
 
 ## Packages build for Debian 13
 - [ ] carla
-- [ ] hyprland
+- [x] hyprland
 - [x] hyprwayland-scanner
 - [x] libaquamarine
 - [x] libaquamarine-dev
