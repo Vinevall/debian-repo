@@ -16,11 +16,11 @@ Apt also tries to do that when it fetches package files not from a remote server
 In this situation (fetchting the package file locally) there's no security advantage in using the _apt user, so using root isn't problematic. 
 
 ## Packages build for Debian 13
-- aquamarine
-- hyprwayland-scanner
-- libhyprutils
-- libhyprutild-dev
-- wallust
+- [ ] aquamarine
+- [ ] hyprwayland-scanner
+- [ ] libhyprutils
+- [ ] libhyprutild-dev
+- [ ] wallust
 
 ## Usage
 
