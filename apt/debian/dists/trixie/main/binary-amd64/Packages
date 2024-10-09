@@ -1,16 +1,49 @@
-Package: wallust
-Version: 3.0.0-1
+Package: libhyprutils-dev
+Version: 0.2.3-1
 Architecture: amd64
 Maintainer: Joakim Vinevall <joakim@vinevall.se>
-Installed-Size: 3
+Installed-Size: 75
+Depends: libhyprutils (= 0.2.3)
+Replaces: libhyprutils-dev (<= 0.2.1)
+Homepage: https://github.com/hyprwm/hyprutils
+Priority: optional
+Section: libdevel
+Filename: pool/main/libh/libhyprutils-dev/libhyprutils-dev_0.2.3-1_amd64.deb
+Size: 10308
+SHA256: eddfb36089f431475df4cc7e672b31293b141710eba34bce6cb7d23852315b7b
+SHA1: d8c9683c8e336a2604b49f2f82eabb63195db5cf
+MD5sum: b701ffd93e10f12b29318c9a15d273e1
+Description: Utilities used across the Hyprland ecosystem (development files) Hyprutils is a small C++ library for utilities used across the Hyprland window manager ecosystem. This package contains the development files.
+
+Package: libhyprutils1
+Version: 0.2.3-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 461
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libpixman-1-0 (>= 0.25.2), libstdc++6 (>= 13)
+Homepage: https://github.com/hyprwm/hyprutils
+Priority: optional
+Section: libs
+Filename: pool/main/libh/libhyprutils1/libhyprutils1_0.2.3-1_amd64.deb
+Size: 75664
+SHA256: 41ae713a92a349659fd84e1f005e80b69eed5b39b89f6eebfa9cf927d35ef051
+SHA1: 5cc310f3e34092fcaa919709f8d7232ffa09edfe
+MD5sum: 50fb0e74a1a470b7b451bf04fbff3fd0
+Description: Utilities used across the Hyprland ecosystem (library). Hyprutils is a small C++ library for utilities used across the Hyprland window manager ecosystem. This package contains the binary shared library.
+
+Package: wallust
+Version: 3.0.0-2
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 6653
 Depends: imagemagick (>= 8:6.9.13.12~)
 Homepage: https://codeberg.org/explosion-mental/wallust
 Priority: extra
 Section: utils
-Filename: pool/main/w/wallust/wallust_3.0.0-1_amd64.deb
-Size: 796
-SHA256: d0820136f93afe1173f1cf4caf0a2c81b26f7d2799ce8f879a30930bb0cc68a1
-SHA1: b25dd15cd2669507445dfcb4fcf11cd6d509d9c7
-MD5sum: 2f7e457b1ca183910288715295bceb99
+Filename: pool/main/w/wallust/wallust_3.0.0-2_amd64.deb
+Size: 1904996
+SHA256: 3c582111558e6264075480078ac3714d323d0e447e4720a50bf03bec4e8167fe
+SHA1: 58fb9c68c0b15c6bf612593708b84a1342898b6a
+MD5sum: 2edc9a2a61f4f1b81c693cd1b3797eab
 Description: Generate a 16 color scheme based on an image
 

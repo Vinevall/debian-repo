@@ -23,8 +23,8 @@ In this situation (fetchting the package file locally) there's no security advan
 - [ ] libhyprcursor0
 - [ ] libhyprlang2
 - [ ] libhyprlang-dev
-- [ ] libhyprutils0
-- [ ] libhyprutild-dev
+- [x] libhyprutils1
+- [x] libhyprutils-dev
 - [x] wallust
 
 ## Usage
