@@ -46,6 +46,22 @@ SHA1: 0c570c75d359feceae6d04408ddcf0e9b3d73d8d
 MD5sum: d31846a61c00c97844bfabc0d4b6b8eb
 Description: Aquamarine is a very light linux rendering backend library. It provides basic abstractions for an application to render on a Wayland session (in a window) or a native DRM session. It is agnostic of the rendering API (Vulkan/OpenGL) and designed to be lightweight, performant, and minimal. Aquamarine provides no bindings for other languages. It is C++-only
 
+Package: libhyprlang-dev
+Version: 0.5.3-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 38
+Depends: libhyprlang2 (>= 0.5.3)
+Homepage: https://github.com/hyprwm/hyprlang
+Priority: optional
+Section: devel
+Filename: pool/main/libh/libhyprlang-dev/libhyprlang-dev_0.5.3-1_amd64.deb
+Size: 7916
+SHA256: fa6a0ee4a76c19a7a13412d701b26b30e845e20067b9619933a9eb8be455527b
+SHA1: 7a11cf70515a6bcea450a2ca7fb6adbd5920954e
+MD5sum: 33338fdc69d10d96d2c72ce74c502d3e
+Description: The hypr configuration language is an extremely efficient, yet easy to work with, configuration language for linux applications. It's user-friendly, easy to grasp, and easy to implement.
+
 Package: libhyprlang2
 Version: 0.5.3-1
 Architecture: amd64

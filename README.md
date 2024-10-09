@@ -21,9 +21,8 @@ In this situation (fetchting the package file locally) there's no security advan
 - [x] hyprwayland-scanner
 - [x] libaquamarine
 - [x] libaquamarine-dev
-- [ ] libhyprcursor0
 - [x] libhyprlang2
-- [ ] libhyprlang-dev
+- [x] libhyprlang-dev
 - [x] libhyprutils1
 - [x] libhyprutils-dev
 - [x] wallust
