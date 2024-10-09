@@ -19,8 +19,8 @@ In this situation (fetchting the package file locally) there's no security advan
 - [ ] carla
 - [ ] hyprland
 - [x] hyprwayland-scanner
-- [ ] libaquamarine
-- [ ] libaquamarine-dev
+- [x] libaquamarine
+- [x] libaquamarine-dev
 - [ ] libhyprcursor0
 - [ ] libhyprlang2
 - [ ] libhyprlang-dev

@@ -14,6 +14,38 @@ SHA1: 5f099460ccd1de73b332f47af55a73ad90853c81
 MD5sum: 2eb74670dccdf770c8ea87db6a912c9d
 Description: Implementation of wayland-scanner for Hyprland. hyprwayland-scanner is a Hyprland implementation of wayland-scanner, in and for C++.
 
+Package: libaquamarine
+Version: 0.4.2-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 3338
+Depends: libseat (>= 0.8.0), libinput (>= 1.26.0), libwayland-client0 (>= 1.23.0-1), wayland-protocol (>= 1.37-1), libhyprutils1 (>= 0.2.3), libpixman-1-0, libdrm2, libgbm1, libudev1, libdisplay-info2, hwdata
+Homepage: https://github.com/hyprwm/aquamarine
+Priority: optional
+Section: libs
+Filename: pool/main/liba/libaquamarine/libaquamarine_0.4.2-1_amd64.deb
+Size: 380088
+SHA256: 86c7352fa03485dfe542c55b38447e2ce4b6ceea95bba792617a814df86658cb
+SHA1: a2a6b257c2222684303908b11ccf67d607b79223
+MD5sum: b0dc753329a9e5d1d717512967b9ed9a
+Description: Aquamarine is a very light linux rendering backend library. It provides basic abstractions for an application to render on a Wayland session (in a window) or a native DRM session. It is agnostic of the rendering API (Vulkan/OpenGL) and designed to be lightweight, performant, and minimal. Aquamarine provides no bindings for other languages. It is C++-only.
+
+Package: libaquamarine-dev
+Version: 0.4.2-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 110
+Depends: libaquamarine (= 0.4.2)
+Homepage: https://github.com/hyprwm/aquamarine
+Priority: optional
+Section: libdevel
+Filename: pool/main/liba/libaquamarine-dev/libaquamarine-dev_0.4.2-1_amd64.deb
+Size: 14056
+SHA256: 73d38a0c2e138039bd5ef2a47d2c7343768dc944e1dda7c84f1f7fa3ba54eedd
+SHA1: 0c570c75d359feceae6d04408ddcf0e9b3d73d8d
+MD5sum: d31846a61c00c97844bfabc0d4b6b8eb
+Description: Aquamarine is a very light linux rendering backend library. It provides basic abstractions for an application to render on a Wayland session (in a window) or a native DRM session. It is agnostic of the rendering API (Vulkan/OpenGL) and designed to be lightweight, performant, and minimal. Aquamarine provides no bindings for other languages. It is C++-only
+
 Package: libhyprutils-dev
 Version: 0.2.3-1
 Architecture: amd64
