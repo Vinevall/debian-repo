@@ -17,10 +17,15 @@ In this situation (fetchting the package file locally) there's no security advan
 
 ## Packages build for Debian 13
 - [ ] aquamarine
+- [ ] carla
+- [ ] hyprland
 - [ ] hyprwayland-scanner
-- [ ] libhyprutils
+- [ ] libhyprcursor0
+- [ ] libhyprlang2
+- [ ] libhyprlang-dev
+- [ ] libhyprutils0
 - [ ] libhyprutild-dev
-- [ ] wallust
+- [x] wallust
 
 ## Usage
 

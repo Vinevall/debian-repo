@@ -1,0 +1,16 @@
+Package: wallust
+Version: 3.0.0-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 3
+Depends: imagemagick (>= 8:6.9.13.12~)
+Homepage: https://codeberg.org/explosion-mental/wallust
+Priority: extra
+Section: utils
+Filename: pool/main/w/wallust/wallust_3.0.0-1_amd64.deb
+Size: 796
+SHA256: d0820136f93afe1173f1cf4caf0a2c81b26f7d2799ce8f879a30930bb0cc68a1
+SHA1: b25dd15cd2669507445dfcb4fcf11cd6d509d9c7
+MD5sum: 2f7e457b1ca183910288715295bceb99
+Description: Generate a 16 color scheme based on an image
+
