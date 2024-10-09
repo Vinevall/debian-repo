@@ -19,7 +19,7 @@ In this situation (fetchting the package file locally) there's no security advan
 - [ ] aquamarine
 - [ ] carla
 - [ ] hyprland
-- [ ] hyprwayland-scanner
+- [x] hyprwayland-scanner
 - [ ] libhyprcursor0
 - [ ] libhyprlang2
 - [ ] libhyprlang-dev

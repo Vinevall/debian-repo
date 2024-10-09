@@ -1,3 +1,19 @@
+Package: hyprwayland-scanner
+Version: 0.4.2-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 224
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 4.3), libpugixml1v5 (>= 1.4), libstdc++6 (>= 13.1)
+Homepage: https://github.com/hyprwm/hyprwayland-scanner
+Priority: optional
+Section: libdevel
+Filename: pool/main/h/hyprwayland-scanner/hyprwayland-scanner_0.4.2-1_amd64.deb
+Size: 75464
+SHA256: 73f2b2ecf800c0d0cfa58c63cfbffc24e07c4ae88fc82be7e06a04ec44d1e244
+SHA1: 5f099460ccd1de73b332f47af55a73ad90853c81
+MD5sum: 2eb74670dccdf770c8ea87db6a912c9d
+Description: Implementation of wayland-scanner for Hyprland. hyprwayland-scanner is a Hyprland implementation of wayland-scanner, in and for C++.
+
 Package: libhyprutils-dev
 Version: 0.2.3-1
 Architecture: amd64
