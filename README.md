@@ -25,7 +25,10 @@ In this situation (fetchting the package file locally) there's no security advan
 - [x] libhyprlang-dev
 - [x] libhyprutils1
 - [x] libhyprutils-dev
+- [ ] OBS-Studio
+- [ ] sendMIDI
 - [x] wallust
+- [ ] xdg-desktop-portal-hyprland
 
 ## Usage
 
