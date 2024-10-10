@@ -30,6 +30,10 @@ In this situation (fetchting the package file locally) there's no security advan
 ## Usage
 
 ### Alternative 1
+
+### Alternative 2
+
+### Alternative 3
 To use this on your Debian 13 installation, open your favourite terminal and type:
 
 `$ git clone https://github.com/Vinevall/debian-repo.git`
