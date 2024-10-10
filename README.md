@@ -16,18 +16,19 @@ Apt also tries to do that when it fetches package files not from a remote server
 In this situation (fetchting the package file locally) there's no security advantage in using the _apt user, so using root isn't problematic. 
 
 ## Packages build for Debian 13
-- [ ] Carla
-- [ ] Grimblast
-- [x] Hyprland 0.44.1
+- [ ] carla
+- [ ] grimblast
+- [x] hyprland                  0.44.1
 - [x] hyprwayland-scanner
-- [x] libaquamarine 0.4.2
+- [x] libaquamarine             0.4.2
 - [x] libaquamarine-dev
 - [x] libhyprlang2
 - [x] libhyprlang-dev
 - [x] libhyprutils1
 - [x] libhyprutils-dev
-- [ ] OBS-Studio
-- [ ] sendMIDI
+- [ ] nautilus-hyprland
+- [ ] obs-Studio
+- [ ] sendmidi
 - [x] wallust
 - [ ] xdg-desktop-portal-hyprland
 
