@@ -17,6 +17,7 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 | libhyprutils1 | 0.2.3-1 | amd64 |
 
 ## Todo
+- [ ] Metapackages
 - [ ] i386 support
 - [ ] arm64 support
 - [ ] Carla
