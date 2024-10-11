@@ -1,6 +1,6 @@
 Origin: Debian 13 Repository
 Label: Debian 13 Repository
-Suite: vinevall-testing
+Suite: testing
 Codename: trixie
 Architectures: amd64
 Components: main
