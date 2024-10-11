@@ -41,10 +41,10 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 - [ ] xdg-desktop-portal-hyprland
 
 ## Disclaimer
-If you don't copy the repository outside your home directory to, for example, the /opt directory, you will get a warning notice.
-This is not an error. The "Notice:" at the beginning says that this is just a notice. There is nothing to fix, (almost) everything worked as expected.
-
-Even when apt is run as root, it tries to download and read packages as a separate user _apt. It does that to increase security. To download packages, it has to interact with a potentially malicious server and it has to download and process data from that server. Such situations are one of the main cases in which there are vulnerabilities. So if there was a vulnerability in that part of apt's code, and if apt was running that code as root, the attacker could potentially run code on your system as root, i.e. they would have full control over your system. So apt runs this code as a user that's very restricted in what it is allowed to do.
+1. Use at own risk!
+If these packages breaks your system, you have been warned.
+2. If you don't copy the repository outside your home directory to, for example, the /opt directory, you will get a warning notice.
+This is not an error. The "Notice:" at the beginning says that this is just a notice. There is nothing to fix, (almost) everything worked as expected. Even when apt is run as root, it tries to download and read packages as a separate user _apt. It does that to increase security. To download packages, it has to interact with a potentially malicious server and it has to download and process data from that server. Such situations are one of the main cases in which there are vulnerabilities. So if there was a vulnerability in that part of apt's code, and if apt was running that code as root, the attacker could potentially run code on your system as root, i.e. they would have full control over your system. So apt runs this code as a user that's very restricted in what it is allowed to do.
 
 ## Usage
 
