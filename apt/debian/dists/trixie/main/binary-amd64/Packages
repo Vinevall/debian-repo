@@ -128,6 +128,22 @@ SHA1: 5cc310f3e34092fcaa919709f8d7232ffa09edfe
 MD5sum: 50fb0e74a1a470b7b451bf04fbff3fd0
 Description: Utilities used across the Hyprland ecosystem (library). Hyprutils is a small C++ library for utilities used across the Hyprland window manager ecosystem. This package contains the binary shared library.
 
+Package: sendmidi
+Version: 1.3.1-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 3804
+Depends: libasound2t64 (>= 1.0.16), libc6 (>= 2.38), libgcc-s1 (>= 3.0), libstdc++6 (>= 13.1)
+Homepage: https://github.com/gbevin/SendMIDI
+Priority: extra
+Section: utils
+Filename: pool/main/s/sendmidi/sendmidi_1.3.1-1_amd64.deb
+Size: 793416
+SHA256: 48437ab4c018fa7e4675210d70db68ec0c73b086623d66636404a182a2b6790a
+SHA1: 6b0913bb6d2587f9b1e7a13857f85d11df70b4ed
+MD5sum: d21b282b93bbac4bcc5f69b35f44908d
+Description: SendMIDI is a multi-platform command-line tool makes it very easy to quickly send MIDI messages to MIDI devices from your computer.
+
 Package: wallust
 Version: 3.0.0-2
 Architecture: amd64

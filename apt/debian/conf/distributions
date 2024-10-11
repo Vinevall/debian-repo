@@ -1,8 +1,10 @@
 Origin: Debian 13 Repository
 Label: Debian 13 Repository
+Suite: stable
 Codename: trixie
 Architectures: amd64
 Components: main
+Version: 1.0
 Description: Apt repository for my used Debian 13 applications
 DebOverride: override.trixie
 DscOverride: override.trixie
