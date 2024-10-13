@@ -31,6 +31,22 @@ SHA1: 97fccdf784e2849f7a266f412485dac796e440aa
 MD5sum: d88fef4b4d069a3d0fbe9dc5b28c4b3e
 Description: Dynamic tiling Wayland compositor Hyprland, is a dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins, easy IPC, much more QoL stuff than other wlr-based compositors and smore...
 
+Package: hyprpicker
+Version: 0.4.1-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 279
+Depends: libhyprutils1, wayland-protocols, libxkbcommon0, libwayland-bin
+Homepage: https://github.com/hyprwm/hyprpicker
+Priority: optional
+Section: utils
+Filename: pool/main/h/hyprpicker/hyprpicker_0.4.1-1_amd64.deb
+Size: 55108
+SHA256: c69b9617f416aff663723fff252c3ac20c131796f7378cc9d3cb1f05f4f92803
+SHA1: e2d3fde1c0bac48f7a2db9645e72bb09d42bb793
+MD5sum: 081cd7403bd6fb4214d61a4a98a7a60f
+Description: A wlroots-compatible Wayland color picker that does not suck.
+
 Package: hyprwayland-scanner
 Version: 0.4.2-1
 Architecture: amd64
