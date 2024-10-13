@@ -9,7 +9,9 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 | Package | Version | Architecture |
 | ----------- | ----------- |----------- |
 | Grimblast | 1.0.0-1 | amd64 |
+| Hypridle | 0.1.2-1 | amd64 |
 | Hyprland | 0.44.1-4 | amd64 |
+| Hyprlock | 0.4.1-1 | amd64 |
 | Hyprpicker | 0.4.1-1 | amd64 |
 | hyprwayland-scanner | 0.4.2-1 | amd64 |
 | libaquamarine | 0.4.2-2 | amd64 |
@@ -26,8 +28,9 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 - [ ] Carla
 - [ ] Glow
 - [x] Grimblast
+- [x] Hypridle
 - [x] Hyprland
-- [ ] Hyprlock
+- [x] Hyprlock
 - [x] Hyprpicker
 - [ ] Hyprsunset
 - [x] Hyprwayland-scanner

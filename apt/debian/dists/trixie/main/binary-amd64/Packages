@@ -14,6 +14,22 @@ SHA1: 8204fb4fd886106ca21e9eebf8b4c1a705d574be
 MD5sum: 528ad43cdebdcbba4a6e7207abcf0bfb
 Description: A Hyprland version of Grimshot.
 
+Package: hypridle
+Version: 0.1.2-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 234
+Depends: libhyprlang2, wayland-protocols, libwayland-bin, libsdbus-c++1
+Homepage: https://github.com/hyprwm/hypridle
+Priority: optional
+Section: utils
+Filename: pool/main/h/hypridle/hypridle_0.1.2-1_amd64.deb
+Size: 80536
+SHA256: c739ea03211869a3db633bfb5c595bd41268e029d6d53dff5dd476fde695ef3c
+SHA1: 9ae49c394efc7729eb1aa400ec036fe1a1a512b3
+MD5sum: 30b6e17945a83f5d6a838fa834988c83
+Description: Hyprland's idle daemon.
+
 Package: hyprland
 Version: 0.44.1-4
 Architecture: amd64
@@ -30,6 +46,22 @@ SHA256: c252bc9831e5fa75d9fd903d302bf7365c808b692ee86045ec847dd36f636979
 SHA1: 97fccdf784e2849f7a266f412485dac796e440aa
 MD5sum: d88fef4b4d069a3d0fbe9dc5b28c4b3e
 Description: Dynamic tiling Wayland compositor Hyprland, is a dynamic tiling Wayland compositor based on wlroots that doesn't sacrifice on its looks. It provides the latest Wayland features, is highly customizable, has all the eyecandy, the most powerful plugins, easy IPC, much more QoL stuff than other wlr-based compositors and smore...
+
+Package: hyprlock
+Version: 0.4.1-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 681
+Depends: libhyprutils1, wayland-protocols, libxkbcommon0, libwayland-bin, libpam0g
+Homepage: https://github.com/hyprwm/hyprlock
+Priority: optional
+Section: utils
+Filename: pool/main/h/hyprlock/hyprlock_0.4.1-1_amd64.deb
+Size: 223204
+SHA256: cdf49e2a1b8797d30d80c15a6fbc2d9b0ce4acfd94b3fcffac44a083d74c8242
+SHA1: 4a4381a8bbef637e74efacedef50cb49f350c225
+MD5sum: c2f79a78d2b7d5949129e8969737d399
+Description: Hyprland's simple, yet multi-threaded and GPU-accelerated screen locking utility.
 
 Package: hyprpicker
 Version: 0.4.1-1
