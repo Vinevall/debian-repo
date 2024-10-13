@@ -8,13 +8,15 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 ## Packages build for Debian 13
 | Package | Version | Architecture |
 | ----------- | ----------- |----------- |
+| Grimblast | 1.0.0-1 | amd64 |
 | Hyprland | 0.44.1-4 | amd64 |
-| SendMIDI | 1.3.1-1| amd64 |
-| Wallust | 3.0.0-2 | amd64 |
 | hyprwayland-scanner | 0.4.2-1 | amd64 |
 | libaquamarine | 0.4.2-2 | amd64 |
 | libhyprlang2 | 0.5.3-1 | amd64 |
 | libhyprutils1 | 0.2.3-1 | amd64 |
+| libhyprutils-dev | 0.2.3-2 | amd64 |
+| SendMIDI | 1.3.1-1| amd64 |
+| Wallust | 3.0.0-2 | amd64 |
 
 ## Todo
 - [ ] Metapackages
@@ -22,11 +24,12 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 - [ ] arm64 support
 - [ ] Carla
 - [ ] Glow
-- [ ] Grimblast
+- [x] Grimblast
 - [x] Hyprland
 - [ ] Hyprlock
-- [ ] hyprsunset
-- [x] hyprwayland-scanner
+- [ ] Hyprpicker
+- [ ] Hyprsunset
+- [x] Hyprwayland-scanner
 - [x] libaquamarine
 - [x] libaquamarine-dev
 - [x] libhyprlang2

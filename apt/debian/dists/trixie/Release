@@ -1,21 +1,21 @@
 Origin: Debian 13 Repository
 Label: Debian 13 Repository
-Suite: stable
+Suite: testing
 Codename: trixie
 Version: 1.0
-Date: Thu, 10 Oct 2024 21:52:18 UTC
+Date: Sun, 13 Oct 2024 16:28:29 UTC
 Architectures: amd64
 Components: main
 Description: Apt repository for my used Debian 13 applications
 MD5Sum:
- e677419bc589d42bf64439734409dbb4 8391 main/binary-amd64/Packages
- c23e52efd731afae2012e7a5f7d10bb0 2849 main/binary-amd64/Packages.gz
+ a0d5cc68cdc21d7a464ad6085f7fc151 8991 main/binary-amd64/Packages
+ bf4f55d3f76efef7173dcc43fa1a94d8 3059 main/binary-amd64/Packages.gz
  21d86a64a55fc1af84ae57cd1e5ca9ee 156 main/binary-amd64/Release
 SHA1:
- 1b61e77abde147c009bf7e4fe4013b260c21ee4e 8391 main/binary-amd64/Packages
- f5467d82a3b885d02cb2860ff7b3886e0c2eaf00 2849 main/binary-amd64/Packages.gz
+ d08eaf72fdb82e3bd6f30f5d1ea63cbf1ccfe3e5 8991 main/binary-amd64/Packages
+ 855a7d0e574f1f4bfc3b18cf129d3203012e51a0 3059 main/binary-amd64/Packages.gz
  48abe05f0c5ce0477d18257c075f50d67bf855ab 156 main/binary-amd64/Release
 SHA256:
- ee6361c8c259bd0001d412469847d34fbdbf843342f058298fef807bc8fc536c 8391 main/binary-amd64/Packages
- 11c226b8e54deaa95df51caefe1b3c688b9ea1ce38d62240a8af1cf2a083df68 2849 main/binary-amd64/Packages.gz
+ c20c61121b7a2b50480cef59ee80ed9cc4f99d642c17d77975c1b37ef2678f84 8991 main/binary-amd64/Packages
+ 3ad0631829466e40613c8fe0d04cd0dabc6f0bc336358e37820ccd42c8b0be9b 3059 main/binary-amd64/Packages.gz
  ddd4869fbe4655ea8040651bf037e29ea50939f60802db1b54d8a1e86756cea8 156 main/binary-amd64/Release

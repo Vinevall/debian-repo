@@ -1,3 +1,19 @@
+Package: grimblast
+Version: 1.0.0-2
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 19
+Depends: grim (>= 1.4.0), slurp (>= 1.5.0), hyprland, hyprpicker, wl-clipboard, jq, libnotify-bin
+Homepage: https://github.com/hyprwm/contrib/tree/main/grimblast
+Priority: optional
+Section: utils
+Filename: pool/main/g/grimblast/grimblast_1.0.0-2_amd64.deb
+Size: 5092
+SHA256: 5df19f74fd75e1a350e8a73b4a9f33cbcf6a420f740de3c8f1a16cc267997a01
+SHA1: 8204fb4fd886106ca21e9eebf8b4c1a705d574be
+MD5sum: 528ad43cdebdcbba4a6e7207abcf0bfb
+Description: A Hyprland version of Grimshot.
+
 Package: hyprland
 Version: 0.44.1-4
 Architecture: amd64
@@ -96,20 +112,20 @@ MD5sum: 3ed5ece209387aaf0d0422975f97f248
 Description: The hypr configuration language is an extremely efficient, yet easy to work with, configuration language for linux applications. It's user-friendly, easy to grasp, and easy to implement.
 
 Package: libhyprutils-dev
-Version: 0.2.3-1
+Version: 0.2.3-2
 Architecture: amd64
 Maintainer: Joakim Vinevall <joakim@vinevall.se>
-Installed-Size: 75
-Depends: libhyprutils (= 0.2.3)
+Installed-Size: 74
+Depends: libhyprutils1 (>= 0.2.3)
 Replaces: libhyprutils-dev (<= 0.2.1)
 Homepage: https://github.com/hyprwm/hyprutils
 Priority: optional
 Section: libdevel
-Filename: pool/main/libh/libhyprutils-dev/libhyprutils-dev_0.2.3-1_amd64.deb
-Size: 10308
-SHA256: eddfb36089f431475df4cc7e672b31293b141710eba34bce6cb7d23852315b7b
-SHA1: d8c9683c8e336a2604b49f2f82eabb63195db5cf
-MD5sum: b701ffd93e10f12b29318c9a15d273e1
+Filename: pool/main/libh/libhyprutils-dev/libhyprutils-dev_0.2.3-2_amd64.deb
+Size: 10316
+SHA256: 4751c43eac9c8acfe6e599f84b12604cf655181ab66505bade1be84b553f4a07
+SHA1: 246907951400c64559cdbdd9320dcbfeec992e49
+MD5sum: f1b6b5223305f67394f9ea7a5541734f
 Description: Utilities used across the Hyprland ecosystem (development files) Hyprutils is a small C++ library for utilities used across the Hyprland window manager ecosystem. This package contains the development files.
 
 Package: libhyprutils1
