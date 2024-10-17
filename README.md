@@ -20,6 +20,7 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 | libhyprutils-dev | 0.2.3-2 | amd64 |
 | SendMIDI | 1.3.1-1| amd64 |
 | Wallust | 3.0.0-2 | amd64 |
+| xdg-desktop-portal-hyprland | 1.3.6-1 | amd64 |
 
 ## Todo
 - [ ] Metapackages
@@ -46,7 +47,7 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 - [ ] ShowMIDI
 - [ ] Starship
 - [x] Wallust
-- [ ] xdg-desktop-portal-hyprland
+- [x] xdg-desktop-portal-hyprland
 
 ## Disclaimer
 1. Use at own risk!

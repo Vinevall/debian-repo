@@ -224,3 +224,30 @@ SHA1: 58fb9c68c0b15c6bf612593708b84a1342898b6a
 MD5sum: 2edc9a2a61f4f1b81c693cd1b3797eab
 Description: Generate a 16 color scheme based on an image
 
+Package: xdg-desktop-portal-hyprland
+Version: 1.3.6-1
+Architecture: amd64
+Maintainer: Joakim Vinevall <joakim@vinevall.se>
+Installed-Size: 808
+Depends: libc6 (>= 2.38), libdrm2 (>= 2.4.109), libgbm1 (>= 21.3.0~rc1), libgcc-s1 (>= 4.3), libhyprlang2 (>= 0.5.2), libpipewire-0.3-0t64 (>= 0.3.1), libqt6core6t64 (>= 6.6.0), libqt6gui6 (>= 6.1.2), libqt6widgets6 (>= 6.1.2), libsdbus-c++1 (>= 1.6.0), libstdc++6 (>= 13.1), libwayland-client0 (>= 1.20.0), hyprwayland-scanner (>= 0.4.2), libhyprutils1
+Homepage: https://github.com/hyprwm/xdg-desktop-portal-hyprland
+Priority: optional
+Section: x11
+Filename: pool/main/x/xdg-desktop-portal-hyprland/xdg-desktop-portal-hyprland_1.3.6-1_amd64.deb
+Size: 237740
+SHA256: f27d7541a84e0c8f86bad235de6bdf098cc8f8576a016593ecacda9bc8703dbe
+SHA1: 55bdcf55f002a4d35dd6109e27c2736d55d8a2ac
+MD5sum: c6ab1efcebf2302612f215a9ab20a324
+Description: XDG Desktop Portal backend for Hyprland
+ This package provides an XDG Desktop Portal backend for Hyprland.
+ It is a program that lets other applications communicate swiftly with
+ the compositor through D-Bus.
+ .
+ You do not have to use xdg-desktop-portal-hyprland. Hyprland will work
+ with xdg-desktop-portal-wlr, but xdg-desktop-portal-hyprland has
+ more features, such as window sharing.
+ .
+ On the other hand, xdg-desktop-portal-hyprland will work on other
+ wlroots-based compositors, although limited to the xdg-desktop-portal-wlr
+ features (other will be disabled).
+
