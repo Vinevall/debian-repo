@@ -25,7 +25,6 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 
 ## Todo
 - [ ] Metapackages
-- [ ] i386 support
 - [ ] arm64 support
 - [ ] Carla
 - [ ] Glow
@@ -45,6 +44,8 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 - [x] libhyprutils-dev
 - [ ] nautilus-hyprland
 - [ ] OBS-Studio
+- [ ] libobs
+- [ ] libobs-dev
 - [x] SendMIDI
 - [ ] ShowMIDI
 - [ ] Starship
