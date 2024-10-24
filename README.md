@@ -1,6 +1,3 @@
-# DO NOT USE THIS YET!
-
-
 # Debian 13 Repository
 A Debian 13 (trixie) repository for the Hyprland ecosystem and my commonly used audio and video applications.
 Nautilus-hyprland is a simple python script that gives a hyprland menu to nautilus.
@@ -8,26 +5,25 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 ## Packages build for Debian 13
 | Package | Version | Architecture |
 | ----------- | ----------- |----------- |
-| Grimblast | 1.0.0-1 | amd64 |
-| Hypridle | 0.1.2-1 | amd64 |
-| Hyprland | 0.44.1-4 | amd64 |
-| Hyprlock | 0.4.1-1 | amd64 |
-| Hyprpicker | 0.4.1-1 | amd64 |
+| grimblast | 1.0.0-1 | amd64 |
+| hypridle | 0.1.2-1 | amd64 |
+| hyprland | 0.44.1-4 | amd64 |
+| hyprlock | 0.4.1-1 | amd64 |
+| hyprpicker | 0.4.1-1 | amd64 |
 | hyprwayland-scanner | 0.4.2-1 | amd64 |
 | libaquamarine | 0.4.3-1 | amd64 |
 | libaquamarine-dev | 0.4.3-1 | amd64 |
 | libhyprlang2 | 0.5.3-1 | amd64 |
 | libhyprutils1 | 0.2.3-1 | amd64 |
 | libhyprutils-dev | 0.2.3-2 | amd64 |
-| SendMIDI | 1.3.1-1| amd64 |
-| Wallust | 3.0.0-2 | amd64 |
+| sendmidi | 1.3.1-1| amd64 |
+| wallust | 3.0.0-2 | amd64 |
 | xdg-desktop-portal-hyprland | 1.3.6-1 | amd64 |
 
 ## Todo
 - [ ] Metapackages
 - [ ] arm64 support
 - [ ] Carla
-- [ ] Glow
 - [ ] Gamescope
 - [x] Grimblast
 - [x] Hypridle
@@ -48,7 +44,6 @@ Nautilus-hyprland is a simple python script that gives a hyprland menu to nautil
 - [ ] libobs-dev
 - [x] SendMIDI
 - [ ] ShowMIDI
-- [ ] Starship
 - [x] Wallust
 - [x] xdg-desktop-portal-hyprland
 
